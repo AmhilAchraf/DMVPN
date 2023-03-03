@@ -1,0 +1,4 @@
+do show dmvpn 
+do show crypto isakma sa
+do show ip nhrp
+do show nhrp nhs detail
